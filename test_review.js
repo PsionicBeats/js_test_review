@@ -43,3 +43,7 @@ function epicBattle(wizard, enemy, power) {
 		console.log("Our " + wizard + " has slain the " + monster);
 	}
 }
+
+//ohaidar
+//hi
+//bluh
